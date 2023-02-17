@@ -1,5 +1,8 @@
 package flock;
 
+/**
+ * Пример вредоносного кода, сбивающего последовательность чисел в счётчике и нарушаещего уникальность идентификаторов.
+ */
 public class ProtectedIncrementCheaterSheep extends ProtectedIncrementSheep {
     public ProtectedIncrementCheaterSheep(String name) {
         super(name);

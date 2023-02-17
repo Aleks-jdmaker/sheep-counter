@@ -4,6 +4,9 @@ import static org.junit.jupiter.api.Assertions.*; // Статический им
                                                   // и пользоваться ими как собственными, в рамках данного класса.
 import org.junit.jupiter.api.Test;
 
+/**
+ *Тестирование разных видов счётчиков.
+ */
 class TestSheepId {
 
     @Test
